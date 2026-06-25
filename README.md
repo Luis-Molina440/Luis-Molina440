@@ -10,3 +10,27 @@
 - 📊 Construyendo mis bases hacia la **Ciencia de Datos y Machine Learning**.
 - ⚔️ Iniciándome en la **programación competitiva**. 
 <br>
+<br>
+<br>
+
+## 🛠️ Mi Caja de Herramientas
+
+**Lenguajes**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Datos & Análisis**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+**Bases de Datos**
+
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+> 🌱 Siempre aprendiendo nuevas tecnologías.
