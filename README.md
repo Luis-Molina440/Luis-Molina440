@@ -8,10 +8,12 @@
 
 - 🎓 Estudiante de Ingeniería Civil en Computación en la **Universidad de Talca**.
 - 📊 Construyendo mis bases hacia la **Ciencia de Datos y Machine Learning**.
-- ⚔️ Iniciándome en la **programación competitiva**. 
+
 <br>
 <br>
 <br>
+<br>
+
 
 ## 🛠️ Mi Caja de Herramientas
 
